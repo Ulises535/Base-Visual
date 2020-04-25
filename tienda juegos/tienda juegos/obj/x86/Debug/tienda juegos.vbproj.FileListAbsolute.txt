@@ -1,0 +1,11 @@
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\bin\Debug\BaseC1.accdb
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\bin\Debug\tienda juegos.exe.config
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\bin\Debug\tienda juegos.exe
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\bin\Debug\tienda juegos.pdb
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\bin\Debug\tienda juegos.xml
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\obj\x86\Debug\tienda juegos.vbproj.GenerateResource.Cache
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\obj\x86\Debug\tienda juegos.exe
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\obj\x86\Debug\tienda juegos.xml
+C:\Users\Ana L. Sànchez\documents\visual studio 2010\Projects\tienda juegos\tienda juegos\obj\x86\Debug\tienda juegos.pdb
